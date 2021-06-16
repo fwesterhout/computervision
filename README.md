@@ -1,5 +1,5 @@
 
-# *Computer vision by Deep Learning project blog*
+# *Computer vision by Deep Learning*
 
 Authors: Mahir Sabanoglu & Frederik Westerhout
 
