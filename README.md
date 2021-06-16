@@ -1,5 +1,6 @@
 # computervision
 Computer vision by Deep Learning project blog
+
 Authors: Mahir Sabanoglu & Frederik Westerhout
 
 Abstract Blog:
