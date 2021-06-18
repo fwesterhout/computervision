@@ -7,6 +7,10 @@ Code used for blog can be found in dataloader_trainer.ipynb (jupyter notebook)
 
 Datasets:
 Due to the file-size limit of 25 Mb we have only added the datasets which suffice this limit. The original dataset can be found at https://data.mendeley.com/datasets/v3kry8gb59/1. 
+The uploaded datasets have the following structure to make it compatible with the dataloader: 
+                         dataset/
+       test/    <------->     train/
+mask<--------> no_mask          mask <----------> no_mask
 
 
 Abstract Blog:
