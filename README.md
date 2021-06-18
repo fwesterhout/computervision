@@ -3,7 +3,8 @@
 
 Authors: Mahir Sabanoglu & Frederik Westerhout
 
-Code used for blog can be found in dataloader_trainer.ipynb (jupyter notebook)
+Code used for blog can be found on Google Colab https://colab.research.google.com/drive/1NpgQPukwVPzuIOUyX_Ct1K0FnIlhF6TB?usp=sharing
+The code which was used for the preprocess of the original dataset is a Jupyter Notebok file (.ipynb) and can be found in this repository as preprocess.ipynb. We chose to work with Jupyter Notebook for the preprocess as the original dataset was to large to upload to the Google Drive without waiting hours. 
 
 Datasets:
 Due to the file-size limit of 25 Mb we have only added the datasets which suffice this limit. The original dataset can be found at https://data.mendeley.com/datasets/v3kry8gb59/1. 
