@@ -9,10 +9,14 @@ The code which was used for the preprocess of the original dataset is a Jupyter 
 Datasets:
 
 Due to the file-size limit of 25 Mb we have only added the datasets which suffice this limit. The original dataset can be found at https://data.mendeley.com/datasets/v3kry8gb59/1. 
-The uploaded datasets have the following structure to make it compatible with the dataloader: 
-                         dataset/
-       test/    <------->     train/
-mask<--------> no_mask          mask <----------> no_mask
+The uploaded datasets have the following structure to make it compatible with the dataloader: 	
+                     
+
+			dataset/
+                       
+       test/    <------------------>	 train/
+
+    mask<--------> no_mask          mask <----------> no_mask
 
 
 Abstract Blog:
@@ -22,6 +26,4 @@ In this blog, we propose a neural network architecture that is able to different
 Link to blog post:
 
 https://fwesterhout.medium.com/a-deep-learning-approach-to-detection-and-classification-of-face-masks-in-surveillance-dataset-55a21e9efbce
-
-
 
